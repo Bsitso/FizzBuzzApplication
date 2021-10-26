@@ -40,4 +40,10 @@ internal class FizzBuzzTest {
         val expected = "FizzBuzz"
         assertEquals(expected, result)
     }
+    @Test
+    fun everyItemNotDivisibleBy3And5IsNotFizzBuzz(){
+        val result = playFizzBuzz.fizzBuzz(7)
+        val expected ="Not Fizz Buzz"
+        assertEquals(expected, result)
+    }
 }

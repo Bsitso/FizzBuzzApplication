@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="FizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-21T08:54:31" hostname="DESKTOP-I74FU00" time="0.047">
+<testsuite name="FizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-21T09:09:53" hostname="DESKTOP-I74FU00" time="0.052">
   <properties/>
-  <testcase name="everyNegativeItemDivisibleBy3And5IsFizzBuzz()" classname="FizzBuzzTest" time="0.047"/>
+  <testcase name="everyItemNotDivisibleBy3And5IsNotFizzBuzz()" classname="FizzBuzzTest" time="0.052"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
